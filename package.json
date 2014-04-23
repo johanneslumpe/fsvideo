@@ -1,5 +1,5 @@
 {
-  "name": "fsvideo",
+  "name": "fsvideo.js",
   "version": "0.0.1",
   "description": "A small library which lets you add fullscreen background videos to your page",
   "main": "src/fsvideo.js",

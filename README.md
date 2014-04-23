@@ -8,7 +8,7 @@ If you feel that there is a feature missing, open up an issue and I will conside
 
 You can install FSVideo.js by cloning this repo directly or via the following command:
 
-`npm install FSVideo.js`
+`npm install fsvideo.js`
 
 When using browserify you can just `require('FSVideo.js')`. When using AMD the library defines itself as anonymous module. If you happen to use neither, FSVideo.js will attach itself to the global object using the property `FSVideo.js`.
 
