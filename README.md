@@ -14,6 +14,8 @@ When using browserify you can just `require('FSVideo.js')`. When using AMD the l
 
 Browser support: IE9+, Chrome, Firefox, Opera, Safari.
 
+For a basic demo, check `demo.html`.
+
 Usage
 ------
 Using FSVideo.js is straight forward:
@@ -27,6 +29,8 @@ fsVideo.init(['somefile.mp4']);
 ```
 
 The above example will create an instance of FSVideo and attach the video to the `body`, since no element was provided.
+
+**Remember to include the css styles into your page.**
 
 API
 ------
