@@ -1,0 +1,27 @@
+{
+  "name": "fsvideo",
+  "version": "0.0.1",
+  "description": "A small library which lets you add fullscreen background videos to your page",
+  "main": "src/fsvideo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha-phantomjs test/testrunner.html"
+  },
+  "homepage": "https://github.com/johanneslumpe/fsvideo",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johanneslumpe/fsvideo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johanneslumpe/fsvideo/issues"
+  },
+  "author": "Johannes Lumpe",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha-phantomjs": "^3.3.2",
+    "phantomjs": "^1.9.7-4",
+    "chai": "^1.9.1"
+  }
+}
